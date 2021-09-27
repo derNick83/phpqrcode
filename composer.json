@@ -5,7 +5,7 @@
 	"keywords": ["php", "qrcode"],
 	"abandoned": "chillerlan/php-qrcode",
 	"homepage": "http://github.com/kairosagency/phpqrcode",
-	"license": ["LGPL"],
+	"license": ["GPL-2.0-or-later"],
 	"authors": [
 		{
 			"name": "Kairos Agency"
