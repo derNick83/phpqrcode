@@ -1,5 +1,5 @@
 {
-  	"name": "derNick83/phpqrcode",
+  	"name": "dernick83/phpqrcode",
 	"type": "library",
 	"description": "A PHP class to generate QR Code",
 	"keywords": ["php", "qrcode"],
