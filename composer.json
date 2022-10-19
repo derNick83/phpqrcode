@@ -1,14 +1,13 @@
 {
-  	"name": "kairos/phpqrcode",
+  	"name": "derNick83/phpqrcode",
 	"type": "library",
 	"description": "A PHP class to generate QR Code",
 	"keywords": ["php", "qrcode"],
-	"abandoned": "chillerlan/php-qrcode",
-	"homepage": "http://github.com/kairosagency/phpqrcode",
+	"homepage": "http://github.com/derNick83/phpqrcode",
 	"license": ["GPL-2.0-or-later"],
 	"authors": [
 		{
-			"name": "Kairos Agency"
+			"name": "Nick Ahrens"
 		}
 	],
 	"require": {
